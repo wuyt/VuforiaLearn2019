@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="FireTruckII"/>
+
+</Tracking>
+
+<Assembly name="FireTruckIIs_assembly" assemblyId="ef5ebe359d274edd893470cc413c92d1">
+<Part name="FireTruckII" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00286604 -0.00254499 0.0993627" rotation="AD: 0.9913251245332335 -0.2192286061925126 0.7880668684018687 204.221">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

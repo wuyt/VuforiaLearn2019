@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="FireTruckII" targetId="5e862d9483cc47f6ab84758222429a15" version="11.0" toolVersion="3.0.0" bbox="-0.012275 -0.012195 -0.056885 0.012275 0.012195 0.046948" previewImage="5e862d9483cc47f6ab84758222429a15_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="FireTruckIIs_assembly" assemblyId="ef5ebe359d274edd893470cc413c92d1">
+<Part name="FireTruckII" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00286604 -0.00254499 0.0993627" rotation="AD: 0.9913251245332335 -0.2192286061925126 0.7880668684018687 204.221" image="FireTruckII_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
