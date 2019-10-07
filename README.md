@@ -1,7 +1,7 @@
 # VuforiaLearn2019
-Vuforia开发学习示例。Vufori a 8.0.10，Unity3D 2018.2.20f。pdfs目录下是识别用的内容。
+Vuforia开发学习示例。Vufori a 8.3.8，Unity3D 2018.4.8f1。pdfs目录下是识别用的内容。
 
-###场景说明
+### 场景说明
 
 - VuforiaLearn/CylinderTargets：柱体识别
 - VuforiaLearn/ImageTargetModel：识别图片显示模型
@@ -21,4 +21,4 @@ VuforiaDatabase8.unitypackage是官方示例的数据
 
 ----------
 
-2019年3月27日
+2019年10月7日
